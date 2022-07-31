@@ -1,6 +1,3 @@
 first change on a.txt
-<<<<<<< HEAD
-=======
 change for updateLeft
->>>>>>> updateLeft
 change for updateRight
